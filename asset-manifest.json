@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/riwantositinjak/TodoList-Sederhana/static/css/main.3245c605.css",
+    "main.js": "/riwantositinjak/TodoList-Sederhana/static/js/main.53517105.js",
+    "index.html": "/riwantositinjak/TodoList-Sederhana/index.html",
+    "main.3245c605.css.map": "/riwantositinjak/TodoList-Sederhana/static/css/main.3245c605.css.map",
+    "main.53517105.js.map": "/riwantositinjak/TodoList-Sederhana/static/js/main.53517105.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3245c605.css",
+    "static/js/main.53517105.js"
+  ]
+}
