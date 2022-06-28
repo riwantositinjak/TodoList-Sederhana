@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+This project can be access oh github pages
+Link = https://riwantositinjak.github.io/TodoList-Sederhana/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
